@@ -2,7 +2,7 @@
 
 This beamer theme is [based on the Caltech-beamer-theme](https://github.com/jsh9/Caltech-beamer-theme).
 
-This unofficial theme includes the Truman State University logo and (lookalike) fonts following the [identity standards](identity.truman.edu). The included Truman color theme also follows these standards, so it is advised against editing it. The `Raleway` font is required, and is included in TexLive distributions. The included logo files must be stored in the same directory as the theme sty files.
+This unofficial theme includes the Truman State University logo and (lookalike) fonts following the [identity standards](https://identity.truman.edu). The included Truman color theme also follows these standards, so it is advised against editing it. The `Raleway` font is required, and is included in TexLive distributions. The included logo files must be stored in the same directory as the theme sty files.
 
 Sample Beamer presentation content is from Overleaf.
 
